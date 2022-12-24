@@ -2,24 +2,15 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Seongho&fontSize=90" />
 </div>
 <div align="center">
-Developers looking to the future rather than the present
-  
 Hi there 👋
 
 "대기만성형 포기하지 않는 개발자 김성호입니다."
-
-Let's not be conceited! 
- 
-코딩은 혼자하는게 아닙니다.
-협업을 위해 배려하며, 성장하기 위해 노력합니다.
-
-서로에게 도움이 되는 개발자 되어가요‼
 </div> 
 <hr> 
 <div align="center">
 ❤️ I love...
-  
-📸사진🏂스노우보드  
+
+📚소설읽기
 </div>
 <hr> 
 <br> 
