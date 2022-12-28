@@ -4,7 +4,7 @@
 <div align="center">
 Hi there 👋
 
-"대기만성형 포기하지 않는 개발자 김성호입니다."
+"포기하지 않는 개발자 김성호입니다."
 </div> 
 <hr> 
 <div align="center">
