@@ -52,6 +52,7 @@
   
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xnlrlal&show_icons=true&theme=radical) 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnlrlal&layout=compact&theme=dracula)](https://github.com/metleeha)
+<!--   ![mazandi profile](http://mazandi.herokuapp.com/api?handle={xnlrlal}&theme=warm) -->
   
 </div>
 
