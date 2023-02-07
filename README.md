@@ -9,7 +9,7 @@
 </div> 
 <hr> 
 <div align="center">
-  ❤️ I love...
+  🔋When I take a break🪔
 
   📚소설읽기
 </div>
